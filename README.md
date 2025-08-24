@@ -50,5 +50,3 @@ I'm a lifelong learner, always exploring new APIs and concepts to expand my know
 [![Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8z2kEXz)
 
 ---
-
-✨ *"Building immersive server experiences, one plugin at a time."*  
