@@ -35,9 +35,9 @@ I'm a lifelong learner, always exploring new APIs and concepts to expand my know
 </a>
 <a href="https://github.com/kxle0801">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=kxle0801&theme=tokyonight&hide_border=true" />
-</a>
+</a> 
 <a href="https://github.com/kxle0801">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxle0801&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kxle0801&theme=tokyonight" />
 </a>
 
 </div>
