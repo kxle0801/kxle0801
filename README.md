@@ -49,11 +49,7 @@ I'm a lifelong learner, always exploring new APIs and concepts to expand my know
 [![PayPal](https://img.shields.io/badge/Support%20on-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lucatile)  
 [![Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8z2kEXz)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kxle0801/kxle0801/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kxle0801/kxle0801/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kxle0801/kxle0801/output/pacman-contribution-graph.svg">
-</picture>
+![pacman gif](https://github.com/kxle0801/KxlePH/blob/output/pacman-contribution-graph-dark.svg)
 
 ###
 
