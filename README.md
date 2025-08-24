@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kyle (kxleph)</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kxle0801.kxle0801&"  />
+</div>
 <h3 align="center">💻 PocketMine & Spigot Plugin Developer | Server Owner | Lifelong Learner</h3>
 
 ---
