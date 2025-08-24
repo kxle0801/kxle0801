@@ -1,37 +1,54 @@
-### ⚙️ About Me
+<h1 align="center">👋 Hi, I'm Kyle (kxleph)</h1>
+<h3 align="center">💻 PocketMine & Spigot Plugin Developer | Server Owner | Lifelong Learner</h3>
 
-I'm a dedicated **Pocketmine and Spigot Plugin developer** from the Philippines, passionate about building custom, high-performance plugins that enhance the player experience on Minecraft servers.
+---
 
-As the owner of **Elysium Network**, a cross-platform gaming community for Java and Bedrock Edition players, I have hands-on experience in server management, community engagement, and deploying high-availability services.
+### ⚙️ About Me  
+I'm a dedicated **PocketMine and Spigot Plugin developer** from the Philippines, passionate about building custom, high-performance plugins that enhance the player experience on Minecraft servers.  
 
-I'm a lifelong learner, always exploring new APIs and concepts to expand my knowledge in server development.
+As the owner of **Elysium Network**, a cross-platform gaming community for Java and Bedrock Edition players, I have hands-on experience in **server management**, **community engagement**, and **deploying high-availability services**.  
 
------
+I'm a lifelong learner, always exploring new APIs and concepts to expand my knowledge in **server development**.  
 
-### 🛠️ My Expertise
+---
 
-*Here are some of the areas I specialize in:*
+### 🛠️ My Expertise  
 
-  - **Spigot & Bukkit Plugin Development:** Crafting custom gameplay mechanics, administrative tools, and server enhancements for Java Edition.
-  - **PocketMine-MP Plugin Development:** Building tailored features and unique experiences for Bedrock Edition servers.
-  - **API Integration:** I frequently work with various APIs to add features like anti-cheat systems, mini-games, and player data tracking.
-  - **Server Optimization:** Ensuring stable and lag-free performance for players on large-scale networks.
+- **Spigot & Bukkit Plugin Development:** Custom gameplay mechanics, administrative tools, and enhancements for Java Edition.  
+- **PocketMine-MP Plugin Development:** Unique features and tailored experiences for Bedrock servers.  
+- **API Integration:** Adding anti-cheat systems, mini-games, player data tracking, and more.  
+- **Server Optimization:** Delivering stable, lag-free performance for **large-scale networks**.  
 
------
+---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect  
+- 💬 **Discord:** `kxleph`  
 
-  - **Discord:** kxleph
+---
 
------
+### 📊 GitHub Stats  
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kxle0801&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kxle0801&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kxle0801&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
------
+<a href="https://github.com/kxle0801">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kxle0801&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/kxle0801">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=kxle0801&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/kxle0801">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxle0801&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
-### ☕ Support My Work:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lucatile)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]([https://www.fiverr.com/your_username_here](https://www.fiverr.com/s/8z2kEXz))
+</div>
+
+---
+
+### ☕ Support My Work  
+
+[![PayPal](https://img.shields.io/badge/Support%20on-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lucatile)  
+[![Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8z2kEXz)
+
+---
+
+✨ *"Building immersive server experiences, one plugin at a time."*  
