@@ -34,9 +34,6 @@ I'm a lifelong learner, always exploring new APIs and concepts to expand my know
 <div align="center">
 
 <a href="https://github.com/kxle0801">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kxle0801&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/kxle0801">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=kxle0801&theme=tokyonight&hide_border=true" />
 </a> 
 <a href="https://github.com/kxle0801">
