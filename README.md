@@ -15,8 +15,6 @@ I'm a lifelong learner, always exploring new APIs and concepts to expand my know
 
 ---
 
-### 🛠️ My Expertise  
-
 - **Spigot & Bukkit Plugin Development:** Custom gameplay mechanics, administrative tools, and enhancements for Java Edition.  
 - **PocketMine-MP Plugin Development:** Unique features and tailored experiences for Bedrock servers.  
 - **API Integration:** Adding anti-cheat systems, mini-games, player data tracking, and more.  
@@ -28,8 +26,6 @@ I'm a lifelong learner, always exploring new APIs and concepts to expand my know
 - 💬 **Discord:** `kxleph`  
 
 ---
-
-### 📊 GitHub Stats  
 
 <div align="center">
 
